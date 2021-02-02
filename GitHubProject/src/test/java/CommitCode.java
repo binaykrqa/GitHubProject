@@ -12,6 +12,8 @@ public class CommitCode {
 	driver = new ChromeDriver();
 	 
 	driver.get("https://www.edureka.co/");
+	System.out.println("Second Commit!!");
 	driver.close();
+	
 	}
 }
