@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-02T10:14:49Z" name="Default suite" finished-at="2021-02-02T10:16:26Z" duration-ms="97116">
+    <groups>
+    </groups>
+    <test started-at="2021-02-02T10:14:49Z" name="Default test" finished-at="2021-02-02T10:16:26Z" duration-ms="97116">
+      <class name="CommitCode">
+        <test-method signature="test()[pri:0, instance:CommitCode@6304101a]" started-at="2021-02-02T10:14:49Z" name="test" finished-at="2021-02-02T10:16:26Z" duration-ms="97037" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- CommitCode -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
